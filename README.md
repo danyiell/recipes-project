@@ -4,7 +4,7 @@ This is the README for this repository. In here we'll describe the purpose of th
 
 At some point, we'll probably want to rename our repo, once we settle on a brand name and logo.
 
-For all documentation files, like this, and others, use the .md file extension so that it's easy to read and view in a browser. See (here)[https://help.github.com/articles/markdown-basics/] for an explanation of markdown syntax. 
+For all documentation files, like this, and others, use the .md file extension so that it's easy to read and view in a browser. See [here](https://help.github.com/articles/markdown-basics/) for an explanation of markdown syntax. 
 
 Here's a quick summary of the root level of the repository:
 
